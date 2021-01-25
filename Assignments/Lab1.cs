@@ -1,5 +1,8 @@
 using System;
 
+/* Emanuel Dobra
+   Lab 1         */
+
 namespace Lab1
 {
     class Program
