@@ -1,9 +1,9 @@
 using System;
 
 /* Emanuel Dobra
-   Lab 1         */
+   Lab 01         */
 
-namespace Lab1
+namespace Lab01
 {
     class Program
     {
@@ -17,8 +17,8 @@ namespace Lab1
         static int chooseCar()
         {
             int userChoice;
-            Console.WriteLine("Please enter the number that represents your vehicle?" +
-                " 1=Honda Civic, 2 =Toyota Camry, 3 =Ford F - 150");
+            Console.Write("Please enter the number that represents your vehicle," +
+                " 1 = Honda Civic, 2 = Toyota Camry, 3 = Ford F - 150. Your choice: ");
             userChoice = Int32.Parse(Console.ReadLine());
             return userChoice;
         }
@@ -53,10 +53,10 @@ namespace Lab1
                 car = chooseCar();
                 carSpeed = checkCarSpeed(car);
                 tripTime = calcTripTime(carSpeed);
-                Console.WriteLine("Total time taken for the trip: " + tripTime + "\n");
+                Console.WriteLine("Total time taken for the trip: " + tripTime);
             }
             // Check last value of total trip time
-            Console.WriteLine("Total time scope: " + tripTime);
+            Console.WriteLine("Scope: " + tripTime);
             Console.ReadLine(); // Stop console from closing
         }
 
@@ -65,19 +65,13 @@ namespace Lab1
 /**
 Output:
 Trip length: 500
-Please enter the number that represents your vehicle? 1=Honda Civic, 2 =Toyota Camry, 3 =Ford F - 150
-1
+Please enter the number that represents your vehicle, 1 = Honda Civic, 2 = Toyota Camry, 3 = Ford F - 150. Your choice: 1
 Total time taken for the trip: 50
-
 Trip length: 500
-Please enter the number that represents your vehicle? 1=Honda Civic, 2 =Toyota Camry, 3 =Ford F - 150
-2
+Please enter the number that represents your vehicle, 1 = Honda Civic, 2 = Toyota Camry, 3 = Ford F - 150. Your choice: 2
 Total time taken for the trip: 25
-
 Trip length: 500
-Please enter the number that represents your vehicle? 1=Honda Civic, 2 =Toyota Camry, 3 =Ford F - 150
-3
+Please enter the number that represents your vehicle, 1 = Honda Civic, 2 = Toyota Camry, 3 = Ford F - 150. Your choice: 3
 Total time taken for the trip: 12.5
-
-Total time scope: 12.5
+Scope: 12.5
 */
