@@ -7,7 +7,7 @@ namespace LabFour
         static void Main(string[] args)
         {
             DobraEmployee.companyName = "Emanuel Dobra's Rollers";
-            DobraEmployee employee = new DobraEmployee("4262562", 21, 45000);
+            DobraEmployee employee = new DobraEmployee("4262562", 2100, 45000);
             int totalSalary;
             employee.employeeId = "5087";
 
