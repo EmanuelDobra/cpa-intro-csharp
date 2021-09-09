@@ -1,0 +1,7 @@
+C:\Users\emado\source\repos\Assignment1Part1\Assignment1Part1\obj\Debug\Assignment1Part1.csproj.CoreCompileInputs.cache
+C:\Users\emado\source\repos\Assignment1Part1\Assignment1Part1\bin\Debug\Assignment1Part1.exe.config
+C:\Users\emado\source\repos\Assignment1Part1\Assignment1Part1\bin\Debug\Assignment1Part1.exe
+C:\Users\emado\source\repos\Assignment1Part1\Assignment1Part1\bin\Debug\Assignment1Part1.pdb
+C:\Users\emado\source\repos\Assignment1Part1\Assignment1Part1\obj\Debug\Assignment1Part1.exe
+C:\Users\emado\source\repos\Assignment1Part1\Assignment1Part1\obj\Debug\Assignment1Part1.pdb
+C:\Users\emado\source\repos\Assignment1Part1\Assignment1Part1\obj\Debug\Assignment1Part1.csprojAssemblyReference.cache

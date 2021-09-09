@@ -1,0 +1,10 @@
+C:\Users\emado\source\repos\FirstGui\FirstGui\bin\Debug\FirstGui.exe.config
+C:\Users\emado\source\repos\FirstGui\FirstGui\bin\Debug\FirstGui.exe
+C:\Users\emado\source\repos\FirstGui\FirstGui\bin\Debug\FirstGui.pdb
+C:\Users\emado\source\repos\FirstGui\FirstGui\obj\Debug\FirstGui.csprojAssemblyReference.cache
+C:\Users\emado\source\repos\FirstGui\FirstGui\obj\Debug\FirstGui.Form1.resources
+C:\Users\emado\source\repos\FirstGui\FirstGui\obj\Debug\FirstGui.Properties.Resources.resources
+C:\Users\emado\source\repos\FirstGui\FirstGui\obj\Debug\FirstGui.csproj.GenerateResource.cache
+C:\Users\emado\source\repos\FirstGui\FirstGui\obj\Debug\FirstGui.csproj.CoreCompileInputs.cache
+C:\Users\emado\source\repos\FirstGui\FirstGui\obj\Debug\FirstGui.exe
+C:\Users\emado\source\repos\FirstGui\FirstGui\obj\Debug\FirstGui.pdb

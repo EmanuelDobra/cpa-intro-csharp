@@ -1,0 +1,9 @@
+C:\Users\emado\Desktop\c#\Assignment2Phase1\Assignment2Phase1\bin\Debug\Assignment2Phase1.exe.config
+C:\Users\emado\Desktop\c#\Assignment2Phase1\Assignment2Phase1\bin\Debug\Assignment2Phase1.exe
+C:\Users\emado\Desktop\c#\Assignment2Phase1\Assignment2Phase1\bin\Debug\Assignment2Phase1.pdb
+C:\Users\emado\Desktop\c#\Assignment2Phase1\Assignment2Phase1\obj\Debug\Assignment2Phase1.csprojAssemblyReference.cache
+C:\Users\emado\Desktop\c#\Assignment2Phase1\Assignment2Phase1\obj\Debug\Assignment2Phase1.Properties.Resources.resources
+C:\Users\emado\Desktop\c#\Assignment2Phase1\Assignment2Phase1\obj\Debug\Assignment2Phase1.csproj.GenerateResource.cache
+C:\Users\emado\Desktop\c#\Assignment2Phase1\Assignment2Phase1\obj\Debug\Assignment2Phase1.csproj.CoreCompileInputs.cache
+C:\Users\emado\Desktop\c#\Assignment2Phase1\Assignment2Phase1\obj\Debug\Assignment2Phase1.exe
+C:\Users\emado\Desktop\c#\Assignment2Phase1\Assignment2Phase1\obj\Debug\Assignment2Phase1.pdb
